@@ -1,7 +1,7 @@
 ## Hellooo, I'm Antonia Turcatto 🤠
 
-- 🔭 I’m currently working on back-end
-- 🌱 I’m currently learning Spring Boot
+- 🔭 I’m currently working in an ERP
+- ⚙️ learning Rust and C
 - 🎶 Fun fact: I also know how to play piano and guitar
 
   <div>
