@@ -1,8 +1,8 @@
-## Hellooo, I'm Antonia Turcatto 🤠
+## Computar Engineering student
 
 - 🔭 I’m currently working in an ERP
 - ⚙️ learning Rust and C
-- 🎶 Fun fact: I also know how to play piano and guitar
+- 🎶 I also know how to play piano and guitar
 
   <div>
     <a href="https://github.com/AntoniaTurcatto">
