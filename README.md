@@ -1,7 +1,6 @@
 ## Computar Engineering student
 
 - 🔭 I’m currently working in an ERP with Delphi
-- ⚙️ learning Rust and C
 - 🎶 I also know how to play piano and guitar
 
   <div>
